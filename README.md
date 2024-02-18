@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Pundir</h1>
 <h3 align="center">Web Developer from India</h3>
 
-- 🔭 I’m currently working on **Real time White Board Sharing Board**
+- 🔭 I’m currently working on **Real time White Board Sharing**
 
 - 🌱 I’m currently learning **Typscript, Postgres and Prisma**
 
