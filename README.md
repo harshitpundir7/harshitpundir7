@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
