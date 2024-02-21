@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, React, Node, Express and MongodB**
   
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8jOr7wC3T-ZRCA4AKZfziWe-umMH5F-EAw&usqp=CAU" style="border-radius: 25%;" />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8jOr7wC3T-ZRCA4AKZfziWe-umMH5F-EAw&usqp=CAU" style="border-radius: 25px;" />
 
 
 ###
