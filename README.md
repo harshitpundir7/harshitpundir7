@@ -3,14 +3,6 @@
 
 - 🔭 I’m currently working on **Nothing**
 
-- 🌱 I’m currently learning **Typscript, Postgres and Prisma**
-
-- 👨‍💻 All of my projects are available at [harshitpundir.co](harshitpundir.co)
-
-- 📝 I regularly write articles on [https://hashnode.com/@harshitpundir7](https://hashnode.com/@harshitpundir7)
-
-- 💬 Ask me about **Javascript, React, Node, Express and MongodB**
-  
 <img align="right" height="150" src="https://uploads.dailydot.com/2018/10/olli-the-polite-cat.jpg?auto=compress&fm=pjpg" style="border-radius: 37.5px;" />
 
 
